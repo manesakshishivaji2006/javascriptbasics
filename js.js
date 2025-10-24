@@ -1,21 +1,20 @@
-console.log("sakshi")
-/* loops for, while, do while
-for loop - for(initial, condition,updation)
-{
+console.log("sakshi");
+// var age= 24;
+//  if(age>10){
+//     console.log(age);
+//  }
+//  else{
+//     console.log("invalid");
 
-}  */
-for (let i=1; i<=10; i++)
-    {
-    console.log("sakshi");
-}
-// counting
-for(let i=1; i<=5; i++){
-    console.log(i);
-}
-// reverse counting
-for (let i= 5; i>=0; i--)
-{
-    console.log(i);
-}
-// continue - skip that itration and print reamining
+//  }
+    
+// let a=10;
+// a=34;
+// console.log(a);
 
+const a=29;
+
+console.log(a);
+
+let marks;
+console.log(marks);
